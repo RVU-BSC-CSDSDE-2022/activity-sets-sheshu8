@@ -5,4 +5,4 @@ int main ()
   int b = 12;
   int c = a+b;
   printf("%d\n",c);
-    }  
+}  
